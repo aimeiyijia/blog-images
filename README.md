@@ -1,2 +1,2 @@
 # jsdeliver-images
-图床
+存放博客图片
